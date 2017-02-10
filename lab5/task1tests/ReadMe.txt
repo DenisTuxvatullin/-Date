@@ -1,27 +1,27 @@
 ========================================================================
-    CONSOLE APPLICATION : TestCDate Project Overview
+    CONSOLE APPLICATION : task1tests Project Overview
 ========================================================================
 
-AppWizard has created this TestCDate application for you.
+AppWizard has created this task1tests application for you.
 
 This file contains a summary of what you will find in each of the files that
-make up your TestCDate application.
+make up your task1tests application.
 
 
-TestCDate.vcxproj
+task1tests.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
     It contains information about the version of Visual C++ that generated the file, and
     information about the platforms, configurations, and project features selected with the
     Application Wizard.
 
-TestCDate.vcxproj.filters
+task1tests.vcxproj.filters
     This is the filters file for VC++ projects generated using an Application Wizard. 
     It contains information about the association between the files in your project 
     and the filters. This association is used in the IDE to show grouping of files with
     similar extensions under a specific node (for e.g. ".cpp" files are associated with the
     "Source Files" filter).
 
-TestCDate.cpp
+task1tests.cpp
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
@@ -29,7 +29,7 @@ Other standard files:
 
 StdAfx.h, StdAfx.cpp
     These files are used to build a precompiled header (PCH) file
-    named TestCDate.pch and a precompiled types file named StdAfx.obj.
+    named task1tests.pch and a precompiled types file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
 Other notes:
